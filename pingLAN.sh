@@ -1,7 +1,8 @@
 # This shell script uses ping command to test local area network.
 # It will show all machines' status.
 
-# Thank for vbird, a linux master in Taiwan.
+# Thank for vbird.
+# http://linux.vbird.org/linux_server/0140networkcommand.php
 
 #!/bin/bash
 for siteip in $(seq 1 254)
