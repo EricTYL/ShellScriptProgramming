@@ -1,7 +1,7 @@
 #!/bin/bash 
  
 LOG=/tmp/mylog.log 
-SECONDS=60 
+SECONDS=180 
 
  
 for i in $@; do 
